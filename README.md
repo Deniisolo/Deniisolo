@@ -12,9 +12,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Deniisolo&theme=dark&hide_border=true&border_radius=5.1&date_format=j%20M%5B%20Y%5D&card_width=508)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deniisolo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Deniisolo)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Deniisolo&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
 
