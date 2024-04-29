@@ -1,5 +1,8 @@
 # 💫 About Me:
-💃I am a web development student<br>👌I want to be a Frontend developer
+👩🏻‍💻Frontend Web Developer <br>
+🦸🏻‍♀️ Tech Content Creator <br>
+💼 Open To Job Opportunities <br>
+🌎 Deniisolo.com
 
 
 ## 🌐 Socials:
