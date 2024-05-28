@@ -2,7 +2,7 @@
 👩🏻‍💻Frontend Developer <br>
 🦸🏻‍♀️ Tech Content Creator <br>
 💼 Open To Job Opportunities <br>
-🌎 Deniisolo.com
+🌎 Denisolo.com
 
 
 ## 🌐 Socials:
