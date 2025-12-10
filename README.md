@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻Frontend Developer <br>
+👩🏻‍💻Salesforce Developer ☁️ <br>
 🦸🏻‍♀️ Tech Content Creator <br>
 💼 Open To Job Opportunities <br>
 🌎 Denisolo.com
